@@ -21,9 +21,4 @@ if choice == "decode":
             encoded = encoded + letters[x]
 
 print(encoded)
-
-
-####
-/**
-Source : http://pylint.pycqa.org/en/latest/tutorial.html
-**/        
+      
